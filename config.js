@@ -23,15 +23,15 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
-global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
+global.owner = ['918116820239'];
+global.ownMain = '918116820239';
+global.NamaOwner = 'M o f i'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
+global.namabot = 'M o f i'; // Do not change
+global.author = 'PATRON'; // Do not change
 global.packname = 'PATRON 🚹'; // Change if needed
-global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not change
+global.url = 'https://chat.whatsapp.com/GWUeMohnpi55jPE2jXqcp9'; // Do not change
 
 //===========================//
 
